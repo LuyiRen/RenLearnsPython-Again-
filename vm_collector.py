@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-#sudo yum install pexpect.noarch
-
 
 from subprocess import call
 import subprocess, json, requests, os, time, sys, re
